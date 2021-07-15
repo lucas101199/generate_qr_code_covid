@@ -1,7 +1,7 @@
 # generate qr code covid
 
 generate qr code for vacine pass 
-(all the helps is welcome)
+(all the help is welcome)
 
 useful links : 
 COSE : https://datatracker.ietf.org/doc/html/rfc8152
